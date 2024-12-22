@@ -22,7 +22,7 @@ conda install pytorch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 cudatoolkit=1
 
 - Clone our `OD-VIRAT` repository:
 ```bash
-git clone https://github.com/open-mmlab/mmdetection.git
+git clone https://github.com/hayatkhan8660-maker/OD-VIRAT.git
 ```
 
 - Install the following prerequisite libraries for  `mmdetection`:
