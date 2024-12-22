@@ -1,6 +1,5 @@
 ## Installation Instructions
 
-- Clone this repo:
 <!--
 ```bash
 git clone https://github.com/TalalWasim/Video-FocalNets
