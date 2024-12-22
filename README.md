@@ -194,4 +194,4 @@ Will be updated upon publication.
 If you have any questions, feel free to open an issue on this repository or reach out at hullah2024@fau.edu.
 
 ## Acknowledgements
-Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repositoru. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
