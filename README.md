@@ -170,7 +170,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <div align="center">
   <img src="Figures/cmp_graph_updated.png" alt="Image" width="1000"/> 
 </div>
-<p>The obtained quantitative results in terms of 𝐴<sub>𝑃</sub>, 𝐴𝑃<sub>50</sub>, 𝐴𝑃<sub>75</sub>, 𝐴𝑃<sub>𝑆</sub> , 𝐴𝑃<sub>𝑀</sub>, and 𝐴𝑃<sub>𝐿</sub> on test images perturbed with <strong>Gaussian Noise</strong>, <strong>Motion Blur</strong>, <strong>Snow</strong>, and <strong>Elastic Transform</strong> and eight different level of perturbation severity <strong>(i.e., s = [1:1:5])</strong>.</p>
+<p>The obtained quantitative results in terms of 𝐴𝑃, 𝐴𝑃<sub>50</sub>, 𝐴𝑃<sub>75</sub>, 𝐴𝑃<sub>𝑆</sub> , 𝐴𝑃<sub>𝑀</sub>, and 𝐴𝑃<sub>𝐿</sub> on test images perturbed with <strong>Gaussian Noise</strong>, <strong>Motion Blur</strong>, <strong>Snow</strong>, and <strong>Elastic Transform</strong> and eight different level of perturbation severity <strong>(i.e., s = [1:1:5])</strong>.</p>
   
 ## Citation
 Will be updated upon publication.
@@ -190,6 +190,7 @@ If you have any questions, feel free to open an issue on this repository or reac
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
 
 
 
