@@ -165,7 +165,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <div align="center">
   <img src="Figures/visual_results_updated.png" alt="Image" width="1000"/>
 </div>
-<p><strong>Visual comparative analysis</strong> of selected object detection models on five test images. (a) <strong>RTMDET</strong>, (b) <strong>YOLOX</strong>, (c) <strong>RetinaNet</strong>, (d) <strong>DETR</strong>, and (e) <strong>Deformable-DETR</strong>.</p>
+<p><strong>Visual comparative analysis</strong> of selected object detection models on five test images. (a) <strong>RTMDET</strong>, (b) <strong>YOLOX</strong>, (c) <strong>RetinaNet</strong>, (d) <strong>DETR</strong>, (e) <strong>Deformable-DETR</strong>, (f) <strong>RT-DETR</strong>, (g) <strong>YOLO-V12</strong>, and (h) <strong>Mamba YOLO</strong>.</p>
 
 <div align="center">
   <img src="Figures/cmp_visual_resutls_updated.png" alt="Image" width="1000"/> 
@@ -195,5 +195,6 @@ If you have any questions, feel free to open an issue on this repository or reac
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
 
 
