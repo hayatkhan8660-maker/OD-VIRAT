@@ -168,7 +168,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <p>Visual comparative analysis of selected object detection models on test image perturbed with Motion Blur and Snow perturbation (severity level 3). (a) <strong>RTMDET</strong>, (b) <strong>YOLOX</strong>, (c) <strong>RetinaNet</strong>, (d) <strong>DETR</strong>, (e) <strong>Deformable-DETR</strong>, (f) <strong>RT-DETR</strong>, (g) <strong>YOLO-V12</strong>, and (h) <strong>Mamba YOLO</strong>. The second and fourth rows contain the enlarged regions, depicting misdetection in images of the first and third rows.</p>
 
 <div align="center">
-  <img src="Figures/cmp_graph.png" alt="Image" width="1000"/> 
+  <img src="Figures/cmp_graph_updated.png" alt="Image" width="1000"/> 
 </div>
 <p>The obtained quantitative results in terms of 𝑚𝐴𝑃, 𝑚𝐴𝑃50, 𝑚𝐴𝑃75, 𝑚𝐴𝑃𝑆 , 𝑚𝐴𝑃𝑀 , and 𝑚𝐴𝑃𝐿 on test images perturbed with <strong>Gaussian Noise</strong>, <strong>Motion Blur</strong>, <strong>Snow</strong>, and <strong>Elastic Transform</strong> and five different level of perturbation severity <strong>(i.e., s = [1:1:5])</strong>.</p>
   
@@ -190,6 +190,7 @@ If you have any questions, feel free to open an issue on this repository or reac
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
 
 
 
