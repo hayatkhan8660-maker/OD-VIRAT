@@ -156,11 +156,6 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 | Parameters Scheduler | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR | CosineAnnealingLR |
 | Training Epochs  | 50 | 50 | 50 | 50 | 50 |
 
-## Models Convergence Visualization 
-<div align="center">
-  <img src="Figures/convergence_figure.png" alt="Image" width="1000"/>
-</div> 
-
 ## Visual Results 
 <div align="center">
   <img src="Figures/visual_results_updated.png" alt="Image" width="1000"/>
@@ -195,6 +190,7 @@ If you have any questions, feel free to open an issue on this repository or reac
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
 
 
 
