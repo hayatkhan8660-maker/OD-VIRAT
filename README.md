@@ -170,7 +170,7 @@ The ```$config``` contains ```deformable-detr-refine-twostage_r50_16xb2-50e_coco
 <div align="center">
   <img src="Figures/cmp_visual_resutls_updated.png" alt="Image" width="1000"/> 
 </div>
-<p><strong>Model Complexity vs Accuracy (mAP)</strong> trade-off comparison: We evaluate the performance of five main-stream object detection architectures on <strong>OD-VIRAT Tiny</strong> dataset and compared the obtained mAP values against model complexities <strong>(# of parameters)</strong>. The <strong>Deformable-DETR architecture with resnet50 backbone</strong> outperform other counterparts by obtaining the best mAP value.</p>
+<p><strong>Visual comparative analysis of selected object detection models on test image perturbed with Motion Blur and Snow perturbation (severity level 3). (a) RTMDET, (b) YOLOX, (c) RetinaNet, (d) DETR, (e) Deformable-DETR, (f) RT-DETR, (g) YOLO-V12, and (h) Mamba YOLO. The second and fourth rows contain the enlarged regions, depicting misdetection in images of the first and third rows.</p>
 
 <div align="center">
   <img src="Figures/cmp_graph.png" alt="Image" width="1000"/> 
@@ -195,6 +195,7 @@ If you have any questions, feel free to open an issue on this repository or reac
 
 ## Acknowledgements
 Our code is based on [MMDetection](https://github.com/open-mmlab/mmdetection) repository. We thank the authors for releasing their code. If you use our code, please consider citing these works as well.
+
 
 
 
